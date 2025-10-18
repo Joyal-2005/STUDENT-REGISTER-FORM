@@ -44,10 +44,6 @@
   color: #888;
 } */
 /* General page styling */
-/* 1️⃣  Import Tailwind layers */
-/* ===============================
-   1️⃣ Global Styles
-================================= */
 .form-bag{
   background-image: url("./assets/image.png");
   background-size: cover;
